@@ -54,7 +54,7 @@ This section contains the Content-Based Image Retrieval pipeline. It utilizes se
 ---
 
 ##  Shared Data Files (Task 2)
-The following NGA Open Data files are placed in the root directory and are required for the Task 2 notebook to run:
+The following NGA Open Data files are placed in the TASK2 folder and are required for the Task 2 notebook to run:
 * **`objects.csv`**: Primary metadata (Title, Artist, Classification).
 * **`published_images.csv`**: Standardized IIIF Image URLs.
 * **`objects_terms.csv`**: Semantic tags used for targeted evaluation filtering (e.g., isolating portraits).
